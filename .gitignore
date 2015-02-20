@@ -1,0 +1,2 @@
+/config/*.cfg
+!/config/*dist*.cfg
